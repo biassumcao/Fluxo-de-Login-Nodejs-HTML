@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(130, 218, 218);
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    border: 2px solid black;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+}
+
+form {
+    box-sizing: border-box;
+    display: column;
+    text-align: center;
+}
